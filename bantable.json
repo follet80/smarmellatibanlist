@@ -12,12 +12,5 @@
         "log10p": -2.5,
         "name": "CC",
         "notes": ""
-    },
-    {
-        "enabled": true,
-        "language": "ita",
-        "log10p": -2.5,
-        "name": "FedeFabio",
-        "notes": ""
     }
 ]
